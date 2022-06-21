@@ -108,6 +108,7 @@ https://zhuanlan.zhihu.com/p/343631974 <br>
 >[VisionKit](https://developer.apple.com/documentation/visionkit) <br>
 >[isionKit document scanner](https://github.com/hansemannn/titanium-scanner) <br>
 >[用苹果官方 API 实现 iOS 备忘录的扫描文稿功能](https://www.fatbobman.com/posts/docScaner/) <br>
+>[【WWDC22 10025】VisionKit 的机器视觉方案，更智能的捕获文本与条码](https://xiaozhuanlan.com/topic/8205316479) <br>
 
 ---
 ---
