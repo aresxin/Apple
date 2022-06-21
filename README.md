@@ -17,6 +17,7 @@
 * Network
 * StoreKit
 * Certificates
+* Dispatch
 
 # Foundation
 ## Data Formatting
@@ -238,3 +239,15 @@ An observer that you use to monitor and react to network changes.
 
 # [Certificates](https://developer.apple.com/support/certificates/)
 >[iOS | 图解iOS签名背后的原理](https://mp.weixin.qq.com/s?__biz=Mzg3MjcxNzUxOQ==&mid=2247484901&idx=1&sn=83fcf34b5b4b7a63c17742efa3ee20a8&chksm=ceea4845f99dc1537003bdebd2a93d09c9b413ad0cc8c5108cd93d5b84e63e65a30ce0f6c019&token=996185752&lang=zh_CN#rd) <br>
+
+---
+---
+
+# [Dispatch](https://developer.apple.com/documentation/dispatch)
+## [DispatchWorkItem](https://developer.apple.com/documentation/dispatch/dispatchworkitem) 
+
+>[A Deep Dive Into Swift’s DispatchWorkItem](https://betterprogramming.pub/a-deep-dive-into-dispatchworkitem-274548357dea) <br>
+```
+1.可以跟定时器配合取消任务
+2.可以用来任务通知
+```
