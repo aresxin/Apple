@@ -87,6 +87,7 @@ https://zhuanlan.zhihu.com/p/343631974 <br>
 [Combine 简明教程二：自定义 Subscriber、Publisher](https://keisme.cn/Combine-%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B%E4%BA%8C%EF%BC%9A%E8%87%AA%E5%AE%9A%E4%B9%89-Subscriber%E3%80%81Publisher.html) <br>
 [Combine 简明教程三：Subject](https://keisme.cn/Combine-%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B%E4%B8%89%EF%BC%9ASubject.html) <br>
 [Combine 简明教程四：Operators](https://keisme.cn/Combine-%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B%E5%9B%9B%EF%BC%9AOperators.html) <br>
+[从响应式编程到 Combine 实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247495012&idx=1&sn=89b85dd6e2e85d708a2415b78343e9a0&scene=21#wechat_redirect) <br>
 
 ---
 ---
