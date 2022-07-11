@@ -116,6 +116,10 @@ https://zhuanlan.zhihu.com/p/343631974 <br>
 ---
 
 # UIKit
+
+## UIView
+[ios UIView的mask属性,view和layer的关系](https://blog.csdn.net/u014600626/article/details/99854281) <br>
+
 ## Autolayout
 >[iOS9下代码创建约束](https://blog.csdn.net/u014084081/article/details/52174504) <br>
 >[Align UIButton and UILabel text with different font sizes](https://stackoverflow.com/questions/61907854/align-uibutton-and-uilabel-text-with-different-font-sizes) <br>
