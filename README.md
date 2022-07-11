@@ -259,6 +259,7 @@ An observer that you use to monitor and react to network changes.
 ---
 
 # DocC
+[DocC](https://developer.apple.com/documentation/docc) <br>
 [Create great documentation with DocC](https://developer.apple.com/news/?id=xa4ak3qr) <br>
 [swift-docc](https://github.com/apple/swift-docc) <br>
 [swift-docc-plugin](https://github.com/apple/swift-docc-plugin) <br>
