@@ -19,6 +19,7 @@
 * Certificates
 * Dispatch
 * DocC
+* Dynamic Type
 
 # Foundation
 ## Data Formatting
@@ -268,3 +269,13 @@ An observer that you use to monitor and react to network changes.
 [swift-docc](https://github.com/apple/swift-docc) <br>
 [swift-docc-plugin](https://github.com/apple/swift-docc-plugin) <br>
 [【老司机精选】DocC: 未曾设想的苹果文档](https://juejin.cn/post/7083677416119336974) <br>
+
+---
+---
+
+# Dynamic Type
+[Scaling Fonts Automatically](https://developer.apple.com/documentation/uikit/uifont/scaling_fonts_automatically) <br>
+[13 | 功能组件：如何设置动态字体，提升视力辅助功能？](https://www.jianshu.com/p/70f2519a10b3) <br>
+[由使用者決定 App 文字大小的 Dynamic Type](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E7%94%B1%E4%BD%BF%E7%94%A8%E8%80%85%E6%B1%BA%E5%AE%9A-app-%E6%96%87%E5%AD%97%E5%A4%A7%E5%B0%8F%E7%9A%84-dynamic-type-dffeb6df90d7) <br>
+[UIFontMetrics](https://developer.apple.com/documentation/uikit/uifontmetrics)A utility object for obtaining custom fonts that scale to support Dynamic Type. <br>
+
