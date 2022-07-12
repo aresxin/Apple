@@ -20,6 +20,7 @@
 * Dispatch
 * DocC
 * Dynamic Type
+* Swift Charts
 
 # Foundation
 ## Data Formatting
@@ -279,3 +280,8 @@ An observer that you use to monitor and react to network changes.
 [由使用者決定 App 文字大小的 Dynamic Type](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E7%94%B1%E4%BD%BF%E7%94%A8%E8%80%85%E6%B1%BA%E5%AE%9A-app-%E6%96%87%E5%AD%97%E5%A4%A7%E5%B0%8F%E7%9A%84-dynamic-type-dffeb6df90d7) <br>
 [UIFontMetrics](https://developer.apple.com/documentation/uikit/uifontmetrics)A utility object for obtaining custom fonts that scale to support Dynamic Type. <br>
 
+---
+---
+
+# Swift Charts
+[Swift Charts](https://developer.apple.com/documentation/Charts)Construct and customize charts on every Apple platform. <br>
