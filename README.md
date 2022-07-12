@@ -21,6 +21,7 @@
 * DocC
 * Dynamic Type
 * Swift Charts
+* On-Demand Resources Essentials
 
 # Foundation
 ## Data Formatting
@@ -285,3 +286,11 @@ An observer that you use to monitor and react to network changes.
 
 # Swift Charts
 [Swift Charts](https://developer.apple.com/documentation/Charts)Construct and customize charts on every Apple platform. <br>
+
+---
+---
+
+# On-Demand Resources Essentials
+[On-Demand Resources Essentials](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/On_Demand_Resources_Guide/index.html#//apple_ref/doc/uid/TP40015083-CH2-SW1) <br>
+[iOS On-Demand Resource 按需加载资源](https://www.jianshu.com/p/bacedd8a3ad8) <br>
+[Alibaba.com App瘦身实践——iOS包大小技术与ROI总结](https://juejin.cn/post/7117074938577551368) <br>
