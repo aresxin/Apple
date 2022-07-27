@@ -24,6 +24,8 @@
 * On-Demand Resources Essentials
 * LLVM
 * CallKit
+* Push to Talk iOS 16.0+ 
+
 
 # Foundation
 ## Data Formatting
@@ -308,3 +310,9 @@ An observer that you use to monitor and react to network changes.
 
 # [CallKit](https://developer.apple.com/documentation/callkit)
 >[微信重磅功能回归，终于解禁](https://www.sohu.com/a/471434225_116600) <br>
+
+---
+---
+
+# [Push to Talk](https://developer.apple.com/documentation/pushtotalk) <br>
+>[Push to Talk 实现“对讲机”](https://xiaozhuanlan.com/topic/2863915470) <br>
