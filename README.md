@@ -25,7 +25,7 @@
 * LLVM
 * CallKit
 * Push to Talk iOS 16.0+ 
-
+* ActivityKit
 
 # Foundation
 ## Data Formatting
@@ -247,6 +247,7 @@ An observer that you use to monitor and react to network changes.
 
 # StoreKit
 >[iOS StoreKit 2 新特性解析](https://mp.weixin.qq.com/s/RrkK5M3qYTs2cMi7sWTqrA) <br>
+>[StoreKit 配置文件和搭建本地测试环境](https://xiaozhuanlan.com/topic/5842093617) <br>
 
 ---
 ---
@@ -316,3 +317,10 @@ An observer that you use to monitor and react to network changes.
 
 # [Push to Talk](https://developer.apple.com/documentation/pushtotalk) <br>
 >[Push to Talk 实现“对讲机”](https://xiaozhuanlan.com/topic/2863915470) <br>
+
+---
+---
+
+# [ActivityKit](https://developer.apple.com/documentation/activitykit)
+ActivityKit可以在锁屏画面添加App的活动
+[iOS 16 锁定屏幕的实时活动现在可供具有最新测试版的开发人员使用](https://behmaster.com/zh-CN/ios-16-live-activities-for-the-lock-screen-now-available-for-developers-with-latest-beta/) <br>
