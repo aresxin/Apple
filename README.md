@@ -26,6 +26,7 @@
 * CallKit
 * Push to Talk iOS 16.0+ 
 * ActivityKit
+* SPM
 
 # Foundation
 ## Data Formatting
@@ -325,3 +326,14 @@ An observer that you use to monitor and react to network changes.
 With the ActivityKit framework, you can start a Live Activity to share live updates from your app on the Lock Screen <br>
 ActivityKit可以在锁屏画面添加App的活动 <br>
 [iOS 16 锁定屏幕的实时活动现在可供具有最新测试版的开发人员使用](https://behmaster.com/zh-CN/ios-16-live-activities-for-the-lock-screen-now-available-for-developers-with-latest-beta/) <br>
+
+
+---
+---
+
+# SPM 
+## Swift Package plugins 
+[Swift Package plugins 初探](https://xiaozhuanlan.com/topic/7316598402) <br>
+命令 plugins 可以运行一些自定义的操作，例如代码格式化，代码扫描等。 <br>
+构建工具 plugins 扩展了构建系统的依赖关系图，可以直接在构建过程中生成源代码或资源 <br>
+[SwiftGenPlugin](https://github.com/canius/PluginTool/blob/fa3f890cbf26c095fd2a358b3c89b849f7bc4380/Plugins/SwiftGenPlugin/plugin.swift) 使用Command plugin在project prebuild时执行swiftgen命令<br>
