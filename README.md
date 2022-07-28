@@ -322,5 +322,5 @@ An observer that you use to monitor and react to network changes.
 ---
 
 # [ActivityKit](https://developer.apple.com/documentation/activitykit)
-ActivityKit可以在锁屏画面添加App的活动
+ActivityKit可以在锁屏画面添加App的活动 <br>
 [iOS 16 锁定屏幕的实时活动现在可供具有最新测试版的开发人员使用](https://behmaster.com/zh-CN/ios-16-live-activities-for-the-lock-screen-now-available-for-developers-with-latest-beta/) <br>
