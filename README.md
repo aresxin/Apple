@@ -27,6 +27,7 @@
 * Push to Talk iOS 16.0+ 
 * ActivityKit
 * SPM
+* Sourcekit
 
 # Foundation
 ## Data Formatting
@@ -339,3 +340,12 @@ ActivityKit可以在锁屏画面添加App的活动 <br>
 [SwiftGenPlugin](https://github.com/canius/PluginTool/blob/fa3f890cbf26c095fd2a358b3c89b849f7bc4380/Plugins/SwiftGenPlugin/plugin.swift) 使用Command plugin在project prebuild时执行swiftgen命令<br>
 [使用 Swift Package 插件生成代码](https://mp.weixin.qq.com/s/0ZHfaTiJXAXrWj5qTunhLg) <br>
 [Meet Swift Package plugins](https://developer.apple.com/videos/play/wwdc2022/110359/) <br>
+
+---
+---
+
+# Sourcekit
+[SourceKitten](https://github.com/jpsim/SourceKitten) <br>
+[利用 Jazzy + SourceKitten 生成多依赖库的在线文档](https://juejin.cn/post/6844904197524029453) <br>
+[SwiftSyntax](https://swift.gg/2019/01/25/nshipster-swiftsyntax/) 抽象语法树（Abstract Syntax Tree，AST）<br>
+[sourcekit-lsp](https://github.com/apple/sourcekit-lsp) <br>
