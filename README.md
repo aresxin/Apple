@@ -337,3 +337,4 @@ ActivityKit可以在锁屏画面添加App的活动 <br>
 命令 plugins 可以运行一些自定义的操作，例如代码格式化，代码扫描等。 <br>
 构建工具 plugins 扩展了构建系统的依赖关系图，可以直接在构建过程中生成源代码或资源 <br>
 [SwiftGenPlugin](https://github.com/canius/PluginTool/blob/fa3f890cbf26c095fd2a358b3c89b849f7bc4380/Plugins/SwiftGenPlugin/plugin.swift) 使用Command plugin在project prebuild时执行swiftgen命令<br>
+[使用 Swift Package 插件生成代码](https://mp.weixin.qq.com/s/0ZHfaTiJXAXrWj5qTunhLg) <br>
