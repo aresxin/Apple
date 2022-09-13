@@ -268,6 +268,7 @@ An observer that you use to monitor and react to network changes.
 1.可以跟定时器配合取消任务
 2.可以用来任务通知
 ```
+>[不改一行业务代码，飞书 iOS 低端机启动优化实践](https://mp.weixin.qq.com/s/KQJ5QXHdhwHRN65KdD45qA) 调整GCD的优先级，不抢占主线程资源从而提高启动时间<br>
 
 ---
 ---
