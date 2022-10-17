@@ -329,6 +329,10 @@ With the ActivityKit framework, you can start a Live Activity to share live upda
 ActivityKit可以在锁屏画面添加App的活动 <br>
 [iOS 16 锁定屏幕的实时活动现在可供具有最新测试版的开发人员使用](https://behmaster.com/zh-CN/ios-16-live-activities-for-the-lock-screen-now-available-for-developers-with-latest-beta/) <br>
 
+## Dynamic Island(灵动岛)
+>[Dynamic Island (and Live Activities): Quick start tutorial](https://nemecek.be/blog/171/dynamic-island-and-live-activities-quick-start-tutorial) <br>
+>[Dynamic-Islands](https://github.com/jordibruin/Dynamic-Islands) About
+A sample of dynamic island designs recreated for inspiration <br>
 
 ---
 ---
