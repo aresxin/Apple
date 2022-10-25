@@ -347,7 +347,7 @@ A sample of dynamic island designs recreated for inspiration <br>
 [SwiftGenPlugin](https://github.com/canius/PluginTool/blob/fa3f890cbf26c095fd2a358b3c89b849f7bc4380/Plugins/SwiftGenPlugin/plugin.swift) 使用Command plugin在project prebuild时执行swiftgen命令<br>
 [使用 Swift Package 插件生成代码](https://mp.weixin.qq.com/s/0ZHfaTiJXAXrWj5qTunhLg) <br>
 [Meet Swift Package plugins](https://developer.apple.com/videos/play/wwdc2022/110359/) <br>
-
+[Xcode 中使用 SPM 和 Build Configuration 的一些坑](https://onevcat.com/2022/10/spm-in-xcode/) <br>
 ---
 ---
 
