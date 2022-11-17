@@ -28,6 +28,7 @@
 * ActivityKit
 * SPM
 * Sourcekit
+* Image I/O
 
 # Foundation
 ## Data Formatting
@@ -357,3 +358,10 @@ A sample of dynamic island designs recreated for inspiration <br>
 [利用 Jazzy + SourceKitten 生成多依赖库的在线文档](https://juejin.cn/post/6844904197524029453) <br>
 [SwiftSyntax](https://swift.gg/2019/01/25/nshipster-swiftsyntax/) 抽象语法树（Abstract Syntax Tree，AST）<br>
 [sourcekit-lsp](https://github.com/apple/sourcekit-lsp) <br>
+
+---
+---
+
+# Image I/O
+[Image I/O](https://developer.apple.com/documentation/imageio) <br>
+[探秘越来越复杂的 ImageIO 框架](https://mp.weixin.qq.com/s/nbPIScJEZ3ReMSFuvNLkzQ) <br>
