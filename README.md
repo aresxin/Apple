@@ -29,6 +29,7 @@
 * SPM
 * Sourcekit
 * Image I/O
+*  iOS APP添加桌面快捷方式
 
 # Foundation
 ## Data Formatting
@@ -366,3 +367,6 @@ A sample of dynamic island designs recreated for inspiration <br>
 # Image I/O
 [Image I/O](https://developer.apple.com/documentation/imageio) <br>
 [探秘越来越复杂的 ImageIO 框架](https://mp.weixin.qq.com/s/nbPIScJEZ3ReMSFuvNLkzQ) <br>
+
+# iOS APP添加桌面快捷方式
+[iOS APP添加桌面快捷方式](https://mp.weixin.qq.com/s/z_CfthCni7m1mKtM0KzH6g) <br>
