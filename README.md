@@ -67,6 +67,9 @@ NotificationCenter.default.removeObserver(token as Any)
 ---
 ---
 
+## Notification
+[Using Critical Alerts in iOS applications](https://blog.kulman.sk/using-critical-alerts-on-ios/) <br>
+
 # SwiftUI
 >https://cs193p.sites.stanford.edu/
 
