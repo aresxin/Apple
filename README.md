@@ -29,7 +29,9 @@
 * SPM
 * Sourcekit
 * Image I/O
-*  iOS APP添加桌面快捷方式
+* iOS APP添加桌面快捷方式
+* ReplayKit
+
 
 # Foundation
 ## Data Formatting
@@ -373,3 +375,6 @@ A sample of dynamic island designs recreated for inspiration <br>
 
 # iOS APP添加桌面快捷方式
 [iOS APP添加桌面快捷方式](https://mp.weixin.qq.com/s/z_CfthCni7m1mKtM0KzH6g) <br>
+
+# ReplayKit
+[iOS ReplayKit 与 屏幕录制](https://mp.weixin.qq.com/s/NbT1BE0CmYkyMXeVIekCpQ) <br>
