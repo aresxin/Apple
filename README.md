@@ -207,7 +207,8 @@ Customizing Collection View Layouts
 >[干货：探秘WKWebView](https://mp.weixin.qq.com/s/l9D4V0ON3uJ0HfsJ7bpJiQ) <br>
 >[webview NSURLErrorCancelled](https://developer.aliyun.com/article/37066) <br>
 >[WKWebView get Javascript Errors](https://stackoverflow.com/questions/50229935/wkwebview-get-javascript-errors) <br>
-
+>[Enabling the Inspection of Web Content in Apps](https://webkit.org/blog/13936/enabling-the-inspection-of-web-content-in-apps/) <br>
+>[Enabling Web Inspector](https://webkit.org/web-inspector/enabling-web-inspector/) <br>
 ---
 ---
 
