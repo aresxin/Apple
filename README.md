@@ -31,6 +31,7 @@
 * Image I/O
 * iOS APP添加桌面快捷方式
 * ReplayKit
+* AVFoundation
 
 
 # Foundation
@@ -379,3 +380,6 @@ A sample of dynamic island designs recreated for inspiration <br>
 
 # ReplayKit
 [iOS ReplayKit 与 屏幕录制](https://mp.weixin.qq.com/s/NbT1BE0CmYkyMXeVIekCpQ) <br>
+
+# AVFoundation
+[淘宝iOS拍立淘微距能力探索与实现](https://mp.weixin.qq.com/s/4tG4BTx54rXIdHbXKqI_cQ) <br>
