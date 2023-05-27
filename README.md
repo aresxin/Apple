@@ -343,7 +343,7 @@ ActivityKit可以在锁屏画面添加App的活动 <br>
 >[Dynamic-Islands](https://github.com/jordibruin/Dynamic-Islands) About
 A sample of dynamic island designs recreated for inspiration <br>
 >[iOS灵动岛开发实践](https://juejin.cn/post/7153236337074634788) <br>
-
+>[盒马 iOS Live Activity &“灵动岛”配送场景实践](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247497758&idx=1&sn=3cb172fcddbca8dc686dc32d0dc5cd94&chksm=cf58e782f82f6e943426565fa79129ab3536ecbe7bdf86f52543fc861734205b720909cff0a6&token=1317516175&lang=zh_CN#rd) <br>
 
 ---
 ---
