@@ -359,6 +359,7 @@ A sample of dynamic island designs recreated for inspiration <br>
 [Xcode 中使用 SPM 和 Build Configuration 的一些坑](https://onevcat.com/2022/10/spm-in-xcode/) <br>
 [Swift Package Manager工程实践](https://mp.weixin.qq.com/s/q7jolU99K7FI9JvAxjwRwg) <br>
 [Binary Targets in Swift Package Manager](https://www.avanderlee.com/optimization/binary-targets-swift-package-manager/#the-upsides-of-binary-targets)   利用SwiftPackag 管理xcframework<br>
+[How to Use Swift Package Manager to Save Gigabytes of Network Traffic and Disk Space](https://betterprogramming.pub/how-to-use-swift-package-manager-saving-gigabytes-of-network-traffic-and-disk-space-998bd148ad56) <br>
 ---
 ---
 
